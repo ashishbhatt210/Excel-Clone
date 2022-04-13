@@ -10,7 +10,7 @@ we've Used **JQuery**, **HTML** and **CSS** for UI and adding functionalities to
 
 – Multi-sheet functionality with Text Formatting and alignments.
 
-- Text color and column highlighting feature available.
+– Text color and column highlighting feature available.
 
 – New, Open and Save Feature.
 
